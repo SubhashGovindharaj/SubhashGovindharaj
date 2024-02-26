@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **subhashgovindharaj@gmail.com**
 
-- ⚡ Fun fact **A hardworking kit, who makes everything smart.**
+- ⚡ Fun fact **A hardworking kid, who makes everything smart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
