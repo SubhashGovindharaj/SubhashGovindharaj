@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsubhash31" target="blank"><img src="https://img.shields.io/twitter/follow/imsubhash31?logo=twitter&style=for-the-badge" alt="imsubhash31" /></a> </p>
 
-- 🌱 I’m currently learning **Data science,Machine Learning,Artificial Intelligence Intelligence**
+- 🌱 I’m currently working **Data science,Machine Learning,Artificial Intelligence Intelligence** Engineer
 
 - 💬 Ask me about **Python Programming.**
 
