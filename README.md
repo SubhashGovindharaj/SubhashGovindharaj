@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋,I'm Subhash Govindaraj</h1>
-<h3 align="center">A passionate Data scientist and AI Developer from India💻</h3>
+<h3 align="center">A passionate Data Engineer and AI Developer from India💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
